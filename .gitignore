@@ -1,0 +1,13 @@
+# Project exclude paths
+/cgh-apply-consumer/target/
+/cgh-apply-provider/target/
+/cgh-car-consumer/target/
+/cgh-car-provider/target/
+/cgh-commons/target/
+/cgh-data-commons/target/
+/cgh-gateway/target/
+/cgh-registry-center/target/
+/cgh-system-consumer/target/
+/cgh-system-provider/target/
+/cgh-unit-consumer/target/
+/cgh-unit-provider/target/
